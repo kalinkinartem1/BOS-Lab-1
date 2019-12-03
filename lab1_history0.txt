@@ -1,0 +1,103 @@
+    1  whoami
+    2  whoaim
+    3  whoami
+    4  echo "Hellow World"
+    5  date
+    6  cal
+    7  man cal
+    8  cal -3
+    9  clear
+   10  pwd
+   11  cd /
+   12  cd ..
+   13  pwd
+   14  ls
+   15  ls /var
+   16  cd ~
+   17  ls
+   18  cd ..
+   19  ls
+   20  ls -l
+   21  cd
+   22  ls
+   23  mkdir fruits
+   24  cd /
+   25  mkdir ~/animals
+   26  ls
+   27  touch /tmp/temp
+   28  cd ~/fruits
+   29  touch apple banana pineapple lion
+   30  ls
+   31  touch ~/cat.txt ~/dog.txt ~/elephant.txt
+   32  ls
+   33  ls ~/
+   34  touch ~/animal/cat.txt 
+   35  touch ~/animals/cat,txt
+   36  touch ~/animals/cat.txt ~/animal/dog.txt ~/animal/elephant.txt
+   37  touch ~/animals/cat.txt ~/animals/dog.txt ~/animals/elephant.txt
+   38  ls ~/
+   39  ls ~/animals
+   40  man date
+   41  date -f apple
+   42  date apple
+   43  date -f=apple
+   44  date --f apple
+   45  date apple
+   46  man date
+   47  ls
+   48  date -f apple
+   49  echo date apple
+   50  ctime apple
+   51  time apple
+   52  --full-time apple
+   53  -full-time aplle
+   54  ls -la apple
+   55  ls -la --full-time apple
+   56  ls b*
+   57  ls *a
+   58  ls
+   59  ls [bi]
+   60  ls [bi]*
+   61  ls b* i*
+   62  cp /etc/passwd
+   63  cp /etc/passwd~
+   64  cp /etc/passwd ~
+   65  cat /etc/issue
+   66  cp /ets/issue ~/fruits/apple
+   67  cat apple
+   68  cp /etc/passwd ~
+   69  cat /etc/issue
+   70  cp /ets/issue ~/fruits/apple
+   71  cp /etc/issue ~/fruits/apple
+   72  cat apple
+   73  mv lion ~/animals
+   74  cd ~/animals
+   75  ls
+   76  cd ~/fruits
+   77  ls
+   78  mv pineapple pineaple
+   79  mv pineaple pineapple 
+   80  ll
+   81  man wc
+   82  wc -l /etc/passwd
+   83  cd
+   84  ln -s /etc/passwd passwd_link
+   85  ln .bash_history history_hard
+   86  ll ~/.bash_history 
+   87  ln .bash_history history_hard
+   88  sudo chown student ~/.bash_history
+   89  shopt -s
+   90  ls -l ~/.bash_history
+   91  ln .bash_history history_hard
+   92* 
+   93  cd
+   94  ln .bash_history history_hard
+   95  ln.bash_history history_hard
+   96  ln .bash_history history_hard
+   97  ~/.bash_history
+   98  ~/.bash_history history_hard
+   99  ~/.bash_history
+  100  ll ~/.bash_history
+  101  lab / lab1_history0.txt
+  102  history / lab1_history0.txt
+  103  history > lab1_history0.txt
