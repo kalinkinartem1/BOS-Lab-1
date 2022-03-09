@@ -1,7 +1,7 @@
     1  whoami
     2  whoaim
     3  whoami
-    4  echo "Hellow World"
+    4  echo "Hello World"
     5  date
     6  cal
     7  man cal
